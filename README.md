@@ -23,3 +23,4 @@ make
 <https://github.com/ultralytics/ultralytics><br>
 <https://github.com/Tencent/ncnn><br>
 <https://github.com/triple-Mu/ncnn-examples>
+<https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html>
